@@ -1,2 +1,2 @@
 # Apache-Spark-Exercises
-Data analytics using Spark framework
+Data analytics on movielens Dataset using Spark framework 
